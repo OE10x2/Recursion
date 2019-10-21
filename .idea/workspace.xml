@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01dc8976-d01d-4a46-80c3-5be5c44af8ce" name="Default Changelist" comment="" />
+    <list default="true" id="01dc8976-d01d-4a46-80c3-5be5c44af8ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Recursion/P1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Recursion/P1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +21,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SW1uVvWxxzUCNDzNfnLyHLNIfQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -41,7 +54,7 @@
   </component>
   <component name="RunManager">
     <configuration name="TEST" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="P1" />
+      <option name="MAIN_CLASS_NAME" value="P5" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,10 +72,22 @@
       <option name="presentableId" value="Default" />
       <updated>1571664760511</updated>
       <workItem from="1571664764413" duration="5968000" />
+      <workItem from="1571687264681" duration="1779000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

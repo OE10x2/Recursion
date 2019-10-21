@@ -1,10 +1,12 @@
 public class P1{
-    private static void asterisk(int N){
-        if (N == 0) return;
-        System.out.print("*");
-        asterisk(N-1);
+    private static void recursive(int N){
+        if (N == 1) System.out.print("*");
+        else{
+            recursive(N-1);
+            System.out.print("*");
+        }
     }
     public static void main(String[] args){
-        asterisk(10);
+        recursive(4);
     }
 }
