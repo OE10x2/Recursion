@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01dc8976-d01d-4a46-80c3-5be5c44af8ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/P1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Recursion/P1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Recursion/P5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Recursion/P5.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
   </component>
   <component name="RunManager">
     <configuration name="TEST" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="P5" />
+      <option name="MAIN_CLASS_NAME" value="P2" />
       <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571664760511</updated>
       <workItem from="1571664764413" duration="5968000" />
-      <workItem from="1571687264681" duration="1779000" />
+      <workItem from="1571687264681" duration="3316000" />
     </task>
     <servers />
   </component>
