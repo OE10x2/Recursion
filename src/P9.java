@@ -5,7 +5,7 @@ public class P9{
     }
     private static double cos(int n, double x){
         if (n == 1) return Math.cos(x);
-        return Math.cos(x) * sin(n-1, x) + Math.sin(x) * cos(n-1, x);
+        return Math.cos(x) * cos(n-1, x) - Math.sin(x) * sin(n-1, x);
     }
     public static void main(String[] args){
         System.out.println(sin(6, Math.PI/2));
