@@ -2,7 +2,11 @@ public class P7{
     private static boolean palindrome(String N){
         if (N.length() == 0 || N.length() == 1) return true;
 <<<<<<< HEAD
+<<<<<<< HEAD
         char first = N.charAt(0);
+=======
+        char first = N.charAt(0));
+>>>>>>> 5b945776e98966129bc0c6382bfe6ef0ebc10ad0
 =======
         char first = N.charAt(0));
 >>>>>>> 5b945776e98966129bc0c6382bfe6ef0ebc10ad0
