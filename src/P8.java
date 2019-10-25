@@ -5,6 +5,6 @@ public class P8{
         return a >= b ? GCD(a % b, b) : GCD(a, b % a);
     }
     public static void main(String[] args){
-        System.out.println(GCD(72, 96));
+        System.out.println(GCD(78, 2197));
     }
 }

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01dc8976-d01d-4a46-80c3-5be5c44af8ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P9.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,11 @@
       <option name="presentableId" value="Default" />
       <updated>1571664760511</updated>
       <workItem from="1571664764413" duration="5968000" />
-      <workItem from="1571687264681" duration="9237000" />
+      <workItem from="1571687264681" duration="12063000" />
+      <workItem from="1571744909433" duration="1830000" />
+      <workItem from="1571862559074" duration="8799000" />
+      <workItem from="1571882711672" duration="1177000" />
+      <workItem from="1571962344277" duration="662000" />
     </task>
     <task id="LOCAL-00001" summary="UPDATE 2">
       <created>1571697960842</created>
@@ -81,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571697960843</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UPDATE 3">
+      <created>1571705547790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571705547790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +102,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -100,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UPDATE 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE 2" />
+    <MESSAGE value="UPDATE 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE 3" />
   </component>
 </project>
